@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: hub of Hypest
 locale: en_US
-description: Describe your website here.
+description: I put stuff here.
 logo: site-logo.png
 search: true
 url: 
@@ -32,17 +32,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Stefanos Togoulidis
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: stefanostogoulidis@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: hypest
+  facebook: stefanos.togoulidis
+  github: hypest
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: stefanostogoulidis
   instagram: #username
-  flickr: #username
+  flickr: 35991379@N06
   tumblr: #username
   google:
     plus: #username
