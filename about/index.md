@@ -12,7 +12,8 @@ image:
 Hey hey, I'm Stefanos.
 
 I code, and then I hack some more code!
-Yeah, studied physics some time ago but seem to keep Physics only in heart at this point ;)
+
+Oh and yeah, also studied Physics some time ago but seem to keep Physics only in heart at this point ;)
 
 ## These can catch my attention:
 
@@ -21,6 +22,4 @@ Yeah, studied physics some time ago but seem to keep Physics only in heart at th
 * Electronics
 * Space
 
-<a markdown="0" href="http://about.me/hypest" class="btn">Check out my about.me</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Follow me on Twitter/FB to get some updates of the stuff I do :)
