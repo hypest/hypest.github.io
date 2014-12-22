@@ -60,13 +60,13 @@ A new solution had to be put in place, and the plausible alternative I could thi
 
 So, here's the plan:
 
- * Use my RaspberryPi, its nice chips of which are only collecting dust and cosmic radiation at the moment
+ * Use my [RaspberryPi][rpi], its nice chips of which are only collecting dust and cosmic radiation at the moment
  * Get a 433MHz receiver
  * Manage to pick up the signals emitted by the 2 watt-meters
  * Collect the data into some database
  * Show some nice tables and charts of the data
 
-And that's how I got to today's breakthrough: I ordered the receiver! Woohoo!
+And that's how I got to today's breakthrough: [I ordered the receiver!][ebayorder] Woohoo!
 
 <figure>
   <img src="{{ site.url }}/assets/images/sdr-usb-dongle.jpg" alt="The RTL2832U based SDR receiver dongle"/>
@@ -76,3 +76,6 @@ And that's how I got to today's breakthrough: I ordered the receiver! Woohoo!
 The dongle is marketed as a DVB-T TV tuner but with Software Defined Radio (SDR) capabilities. The preliminary research I did showed that I will probably be able to setup the raspi to use the dongle and "wire" it through some software packages to decode the signals. Let's see. This is me, trying to move the project one step further, even if that step will be an experiment.
 
 Hacks are always an experiment anyway ;)
+
+[rpi]: http://www.raspberrypi.org/products/model-b/
+[ebayorder]: http://www.ebay.com/itm/201140299234
