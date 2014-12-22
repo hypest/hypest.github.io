@@ -10,7 +10,7 @@ url:
 
 # Jekyll configuration
 
-permalink:   /:categories/:title.html
+permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
