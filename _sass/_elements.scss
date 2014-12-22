@@ -16,7 +16,10 @@ figure {
   padding-bottom: 10px;
   @include clearfix;
   img {
+		margin-left: auto;
+		margin-right: auto;
     margin-bottom: 10px;
+		display: block;
   }
   a { 
     img {
