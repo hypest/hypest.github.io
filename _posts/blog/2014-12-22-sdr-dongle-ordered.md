@@ -6,6 +6,7 @@ categories: blog
 share: true
 excerpt:
 tags: []
+ogimage: assets/images/FHT-9998_L1.jpg
 image:
   feature:
 date: 2014-12-22T03:25:00+02:00
