@@ -5,7 +5,8 @@ locale: en_US
 description: I put stuff here.
 logo: site-logo.png
 search: true
-url: 
+#url: //localhost:4000
+url: //hypest.com
 
 
 # Jekyll configuration
