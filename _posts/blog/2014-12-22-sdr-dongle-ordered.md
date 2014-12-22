@@ -3,6 +3,7 @@ layout: post
 title: "New project: Power usage monitor"
 modified:
 categories: blog
+share: true
 excerpt:
 tags: []
 image:
