@@ -61,7 +61,7 @@ A new solution had to be put in place, and the plausible alternative I could thi
 
 So, here's the plan:
 
- * Use my [RaspberryPi][rpi], its nice chips of which are only collecting dust and cosmic radiation at the moment
+ * Use my [RaspberryPi][rpi], the nice chips of which are only collecting dust and cosmic radiation at the moment
  * Get a 433MHz receiver
  * Manage to pick up the signals emitted by the 2 watt-meters
  * Collect the data into some database
