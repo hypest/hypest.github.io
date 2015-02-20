@@ -28,22 +28,10 @@ Here's the basic architecture of the setup:
  * The Raspi is connected to my LAN and runs the rtl_433 utility, modified by me to be able to decode the values of each sensor
  * When picked up, the temperature value gets submitted to a Google form, storing the value in a Google Sheet
  * In the Sheet, the history of temperatures is displayed on a chart
- * Bonus action: upon submitting a new value, a script in the Sheet sends an email to [ifttt.com][ifttt], activating a recipe that tweets the value! Check out the [Twitter feed][twitterfeed]! The feed is rate-limited to roughly 1 tweet every 30mins.
 
-rpi stuff
-=========
+Bonus action: upon submitting a new value, a script in the Sheet sends an email to [ifttt.com][ifttt], activating a recipe that tweets the value! Check out the [Twitter feed][twitterfeed]! The feed is rate-limited to roughly 1 tweet every 30mins.
 
-##### compile and install rtl-sdr
-
-##### compile and install rtl_433
-
-##### play with rtl_433 to decypher the signals
-
-# google form+sheet stuff
-
-# twitter stuff
-
-# temps.hypest.org stuff
+I'll go into more detail in some future posts, stay tuned ;)
 
 [dvbdongle]: http://www.ebay.com/itm/201140299234
 [ifttt]: http://ifttt.com
