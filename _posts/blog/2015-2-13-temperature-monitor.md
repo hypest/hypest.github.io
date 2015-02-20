@@ -6,7 +6,7 @@ categories: blog
 share: true
 excerpt:
 tags: []
-ogimage: assets/images/temps-hypest-org.jpg
+ogimage: assets/images/temps-hypest-org.png
 image:
   feature:
 date: 2015-2-13T15:40:00+02:00
