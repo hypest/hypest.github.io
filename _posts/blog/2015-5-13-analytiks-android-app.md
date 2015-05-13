@@ -30,6 +30,11 @@ Bonus: Try to hold the device in landscape... more goodies wait you there :)
 
 The app is actively supported and developed and more features will land, well, soon :P. In the meantime, enjoy the app and don't be shy to rate and leave us a review on PlayStore :)
 
+<p style="text-align:center;"><a href="https://play.google.com/store/apps/details?id=com.blattlabs.analytiks">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a></p>
+
 [playstore]: https://play.google.com/store/apps/details?id=com.blattlabs.analytiks
 [blattlabs]: http://blatt.me/
 [analytiksios]: https://itunes.apple.com/us/app/analytiks/id427268553
